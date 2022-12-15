@@ -1,10 +1,10 @@
-package com.orchardSim.client;
+package com.orchardSim.vegetables;
 
-public class Client {
+public class Vegetable {	
 	
 	String name;
 	
-	public Client(String name) {
+	public Vegetable(String name) {
 		this.name = name;
 	}
 	
